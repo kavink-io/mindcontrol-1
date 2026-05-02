@@ -2,7 +2,7 @@
 
 **AI-Powered Well-being Assessment & Biofeedback Dashboard**
 
-MindPulse is a comprehensive, modern Next.js application designed to track, assess, and improve user well-being. It integrates interactive assessments, real-time biofeedback visualization, and AI-driven insights to provide a holistic view of mental and emotional health.
+MindPulse is an AI-powered well-being assessment and biofeedback dashboard that integrates real-time Galvanic Skin Response (GSR) data to track, assess, and improve user mental and emotional health.
 
 ## 🌟 Features
 
